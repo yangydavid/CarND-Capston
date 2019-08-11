@@ -1,0 +1,8 @@
+prefix=/home/parallels/CarND-Capston/ros/install
+
+Name: camera_info_publisher
+Description: Description of camera_info_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/parallels/CarND-Capston/ros/install/lib 
+Requires: 

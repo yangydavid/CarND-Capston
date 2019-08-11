@@ -1,0 +1,8 @@
+prefix=/home/parallels/CarND-Capston/ros/devel
+
+Name: styx
+Description: Description of styx
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/parallels/CarND-Capston/ros/devel/lib 
+Requires: 

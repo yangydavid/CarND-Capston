@@ -1,0 +1,8 @@
+prefix=/home/parallels/CarND-Capston/ros/install
+
+Name: waypoint_updater
+Description: Description of waypoint_updater
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/parallels/CarND-Capston/ros/install/lib 
+Requires: 

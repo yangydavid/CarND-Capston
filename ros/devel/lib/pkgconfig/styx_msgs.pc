@@ -1,0 +1,8 @@
+prefix=/home/parallels/CarND-Capston/ros/devel
+
+Name: styx_msgs
+Description: Description of styx_msgs
+Version: 0.0.0
+Cflags: -I/home/parallels/CarND-Capston/ros/devel/include
+Libs: -L/home/parallels/CarND-Capston/ros/devel/lib 
+Requires: 
